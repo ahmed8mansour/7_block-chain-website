@@ -22,10 +22,7 @@ This project is a blockchain-based web application that demonstrates how decentr
 
 - **Frontend**: HTML, CSS, JavaScript (React.js )
   
-## Getting Started
-
-To run the project locally:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/blockchain-webapp.git
+## Author
+- Ahmed Mansour
+- **Email** - ahmedmansourforwork@gmail.com
+- **GitHub** - ahmed8mansour
