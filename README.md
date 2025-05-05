@@ -25,4 +25,4 @@ This project is a blockchain-based web application that demonstrates how decentr
 ## Author
 - Ahmed Mansour
 - **Email** - ahmedmansourforwork@gmail.com
-- **GitHub** - ahmed8mansour
+- **GitHub** - @ahmed8mansour
