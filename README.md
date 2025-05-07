@@ -6,10 +6,6 @@ This project is a blockchain-based web application that demonstrates how decentr
 
 ## Preview
 
-🌐 **Live Demo**: 
-
-![blockchainwebsite](https://github.com/user-attachments/assets/13910542-a507-40d1-9f37-9148719ee7ce)
-
 ## Features
 
 - 🔐 **Decentralized Transactions** – Peer-to-peer transactions without intermediaries.
